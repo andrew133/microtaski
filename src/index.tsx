@@ -5,14 +5,19 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-    //<App />,
+
     <div>
-        <div>1111111</div>,
-        <div>1111111</div>,
-        <div>1111111</div>,
-        <div>1111111</div>,
-        <div>1111111</div>,
-        <div>1111111</div>,
+            <App />
+            <App />
+            <App />
+            <App />
+            <App />
+        <div>1111111</div>
+        <div>1111111</div>
+        <div>1111111</div>
+        <div>1111111</div>
+        <div>1111111</div>
+        <div>1111111</div>
     </div>,
 
 
